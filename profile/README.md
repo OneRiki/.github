@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3><strong>What is this?</strong></h3>
- <p>We are a private organization that was founded in the year of 202, but later re-named to <strong>One Riki</strong>.</p>
+ <p>We are a private organization that was founded in the year of 2020, but later re-named to <strong>One Riki</strong>.</p>
 </div>
 
 <div align="center">
