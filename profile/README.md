@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>One Riki</strong></h1>
- <p>Embrace seamless automation, effortless moderation, and endless customization with our Discord bot solutions.</p>
+ <p>Embrace seamless automation, effortless moderation, and endless customization with our technology solutions.</p>
 </div>
 
 <div align="center">
@@ -14,11 +14,9 @@
 Username  | Position
 ---    | ---
 [@sv_lord5](https://github.com/svlord5) | Founder
+[@senjuily09](https://github.com/senjuily09) | Core Team
 
 </div>
 
-<!--
-<div align="center">
- ![Work in Progress](https://imgur.com/a/Mk3NiPm)
-</div>
--->
+> [!IMPORTANT]
+> OneRiki is still under development and not yet available for service. 🛠️
