@@ -15,6 +15,7 @@ Username  | Position
 ---    | ---
 [@sv_lord5](https://github.com/svlord5) | Founder
 [@senjuily09](https://github.com/senjuily09) | Core Team
+[@JSLord07](https://github.com/JSLord07) | Core Team
 
 </div>
 
