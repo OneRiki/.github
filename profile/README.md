@@ -19,5 +19,12 @@ Username  | Position
 
 </div>
 
+<div align="center">
+  <h1><strong>Contact Us</strong></h1>
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p6VDGcyDxx) [![X (formerly Twitter](https://img.shields.io/badge/X(formerlyTwitter)-00ACEE?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OneRikiServices) 
+
+</div>
+
 > [!IMPORTANT]
 > OneRiki is still under development and not yet available for service. 🛠️
