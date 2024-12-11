@@ -22,7 +22,7 @@ Vacant | Manager
 <div align="center">
   <h1><strong>Contact Us</strong></h1>
   
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://go.oneriki.tech/discord) [![X (formerly Twitter](https://img.shields.io/badge/X(formerlyTwitter)-00ACEE?style=for-the-badge&logo=x&logoColor=white)](https://go.oneriki.tech/twitter)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://go.oneriki.tech/discord) [![X (formerly Twitter](https://img.shields.io/badge/X(formerlyTwitter)-00ACEE?style=for-the-badge&logo=x&logoColor=white)](https://go.oneriki.tech/twitter) [![Mail Us](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://go.oneriki.tech/contact)
 
 </div>
 
