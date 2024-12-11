@@ -13,8 +13,8 @@
  
 Username  | Position
 ---    | ---
-[@sv_lord5](https://github.com/svlord5) | Founder
-[@senjuily09](https://github.com/senjuily09) | Core Team
+[sv_lord5](https://github.com/svlord5) | Founder
+[senjuily09](https://github.com/senjuily09) | Core Team
 Vacant | Manager
 
 </div>
